@@ -1,2 +1,4 @@
 # Hiksonwrd
-Personal experience and used only 
+Personal experience and used my personal website.
+I built this project using HTML, CSS, and JavaScript
+to learn web development and showcase my skills. I'm more interested in programming, photographic design. 
